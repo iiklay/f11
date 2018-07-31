@@ -802,6 +802,4 @@ client.on('message',  (message) => {
   })
         }  
 });
-	
-client.login("NDczOTQ1MjYxNzQ0NDU1NzA0.DkJZDg.qFK4avksbz1GhCNlnCwBiPzxjLM");
 
