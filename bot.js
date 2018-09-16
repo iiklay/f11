@@ -2444,3 +2444,5 @@ client.on('messageUpdate', (message, newMessage) => {
 
 
 });
+client.login(process.env.BOT_TOKEN);
+
